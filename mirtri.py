@@ -1,0 +1,5 @@
+print('    i')
+print('   ii')
+print('  iii')
+print(' iiii')
+print('iiiii')
